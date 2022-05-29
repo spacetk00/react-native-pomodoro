@@ -23,10 +23,10 @@ Baixe o projeto e em seguida utilize os seguintes comandos dentro da pasta do pr
 ```
 npm install \\baixa as dependências
 react-native start \\ inicia o bundler metro
-react-native run-adroid \\ instala e executa o applicativo
+react-native run-adroid \\ instala e executa o aplicativo
 ```
 
-## Depedências utilizadas
+## Dependências utilizadas
 * [Native Base](https://github.com/GeekyAnts/nativebase)
 * [Linear Gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient)
 * [Push Notification](https://github.com/zo0r/react-native-push-notification)
