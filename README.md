@@ -21,7 +21,7 @@ Este é um aplicativo de pomodoro feito com React Native e o seu uso é bem simp
 
 Baixe o projeto e em seguida utilize os seguintes comandos dentro da pasta do projeto
 ```
-npm start \\baixa as dependências
+npm install \\baixa as dependências
 react-native start \\ inicia o bundler metro
 react-native run-adroid \\ instala e executa o applicativo
 ```
